@@ -136,6 +136,11 @@ html, body {
   padding: 50px;
 }
 
+.proj p, li{
+  font-size: 18px;
+}
+
+
 
 
 .fa-linkedin:hover,.fa-github:hover,.fa-envelope-square:hover, .fa-file:hover {
