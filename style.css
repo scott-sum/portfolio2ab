@@ -94,7 +94,7 @@ html, body {
 .icon i{
   font-size: 4em;
   margin: 1rem;
-  color: #DC143C;
+  color: #3366ff;
   transition: all ease 0.5s;
   -webkit-transition: all ease 0.5s;
   transform: scale(1);
@@ -130,6 +130,10 @@ html, body {
 
 .gif {
   border-radius: 10%;
+}
+
+.proj {
+  padding: 50px;
 }
 
 
